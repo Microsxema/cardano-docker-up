@@ -1,0 +1,9 @@
+[submodule "cardano-graphql"]
+	path = cardano-graphql
+	url = https://github.com/cardano-foundation/cardano-graphql.git
+[submodule "cardano-configurations"]
+	path = cardano-configurations
+	url = https://github.com/input-output-hk/cardano-configurations.git
+[submodule "cardano-db-sync"]
+	path = cardano-db-sync
+	url = https://github.com/IntersectMBO/cardano-db-sync.git
